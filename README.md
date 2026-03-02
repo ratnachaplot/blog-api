@@ -8,7 +8,7 @@
 
 | | Link |
 |---|---|
-| **Live API** | https://blog-api-xxxx.onrender.com |
+| **Live API** | https://blog-api-hcbo.onrender.com |
 | **GitHub** | https://github.com/ratnachaplot/blog-api |
 
 ---
